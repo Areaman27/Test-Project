@@ -1,3 +1,3 @@
 # Test-Project
 My First Project
-Alert(Shepherd);
+alert("Shepherd");
